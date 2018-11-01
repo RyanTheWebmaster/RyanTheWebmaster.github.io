@@ -8,5 +8,6 @@ p {
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
 body {
-    background-color: rgb(109, 106, 104); /* gray */
+    background image: radial-gradient(rgb(73, 25, 140) 20%, rgb(38, 129, 226) 60%);
+   /* background-color: rgb(109, 106, 104);  gray */
 }
