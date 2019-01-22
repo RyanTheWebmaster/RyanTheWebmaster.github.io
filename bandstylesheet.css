@@ -1,1 +1,6 @@
 
+/*Creates blue to grey linear gradient to navigation*/
+.topnav {
+  background-image: linear-gradient(to right, blue, grey);
+  overflow: hidden;
+}
