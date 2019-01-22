@@ -9,6 +9,7 @@ p {
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
 body {
-    background image: radial-gradient(rgb(73, 25, 140) 0.20, rgb(38, 129, 226) 0.60);
+    /*background image: radial-gradient(rgb(73, 25, 140) 0.20, rgb(38, 129, 226) 0.60);
+    background: linear-gradient(to right bottom, #ac39ac 50%, #862d86 50%); 
    /* background-color: rgb(109, 106, 104);  gray */
 }
