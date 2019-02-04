@@ -15,7 +15,7 @@ p {
 }
 
 .navigation a {
-  float: left;
+  float: center;
   color: #35d3ff;
   text-align: center;
   padding: 56px 66px;
