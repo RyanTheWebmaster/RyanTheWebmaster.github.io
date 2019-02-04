@@ -21,6 +21,7 @@ p {
   padding: 56px 66px;
   text-decoration: none;
   font-size: 45px;
+  position: fixed;
 }
 
 html, body {
