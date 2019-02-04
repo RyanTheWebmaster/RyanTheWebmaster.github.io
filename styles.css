@@ -9,7 +9,7 @@ p {
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-.topnav navigation:hover {
+.navigation a:hover {
   background-color: #ddd;
   color: black;
 }
