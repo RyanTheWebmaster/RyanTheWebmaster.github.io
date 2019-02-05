@@ -36,7 +36,7 @@ p {
     
 
 body {
-    background: linear-gradient(to bottom, rgb(232,232,232), ;
+    background-image: linear-gradient(to bottom, rgb(232,232,232), rgb(128,128,128));
 }
 /*html, body {
     /*background image: radial-gradient(rgb(73, 25, 140) 0.20, rgb(38, 129, 226) 0.60);*/
