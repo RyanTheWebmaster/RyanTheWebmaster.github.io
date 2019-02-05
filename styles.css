@@ -36,6 +36,7 @@ p {
     height: 170px;
     background-color: #404040;
     min-width: 700px;
+    padding-top: 40px;
 }
 
 body {
