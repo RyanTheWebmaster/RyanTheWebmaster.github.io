@@ -48,6 +48,13 @@ p {
 .toptop {
     position: fixed;
     min-width: 700px;
+    background-color: #404040;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0px;
 }
 
 body {
