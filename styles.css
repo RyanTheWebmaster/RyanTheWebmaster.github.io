@@ -27,6 +27,10 @@ p {
   width: 100%;   
 }
 
+.top {
+    position: fixed
+}
+
 body {
     background-color: rgb(232,232,232);
 }
