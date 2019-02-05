@@ -45,6 +45,11 @@ p {
     top: 0;
 }
 
+.toptop {
+    position: fixed;
+    min-width: 700px;
+}
+
 body {
     background-image: linear-gradient(to bottom, rgb(232,232,232), rgb(128,128,128));
 }
