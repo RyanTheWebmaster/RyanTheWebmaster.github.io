@@ -16,7 +16,6 @@ p {
 
 .navigation a {
   float: left;
-
   text-align: center;
   padding: 56px 40px;
   text-decoration: none;
@@ -25,7 +24,7 @@ p {
 
 .navigation {
   width: 100%;  
-  background-color: #35d3ff;
+  background-color: rgb(66, 134, 244);
 }
 
 .top {
