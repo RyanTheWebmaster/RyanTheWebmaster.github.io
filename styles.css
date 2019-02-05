@@ -37,6 +37,7 @@ p {
   width: 100%;  
   background-color: #0441a3;
   margin: 0;
+  min-width: 700px;
 }
 
 .top {
