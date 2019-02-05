@@ -38,9 +38,9 @@ p {
     background-color: #404040;
     margin: 0;
     min-width: 700px;
-    padding-top: 40px;
+    padding: 0px;
     left: 0;
-	top: 0;
+    top: 0;
 }
 
 body {
