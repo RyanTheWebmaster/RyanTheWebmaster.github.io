@@ -26,9 +26,9 @@ p {
   float: left;
   text-align: center;
   padding: 33px 38px;
-  text-decoration: none;
+  text-decoration: bold;
   font-size: 45px;
-  color: black;
+  color: white;
   font-family: "Times New Roman", Times, serif;
   background-color: #0441a3;  
 }
