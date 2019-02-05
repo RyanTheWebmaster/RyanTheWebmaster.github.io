@@ -16,7 +16,7 @@ p {
 
 .navigation a {
   float: center;
-  color: #35d3ff;
+  background-color: #35d3ff;
   text-align: center;
   padding: 56px 66px;
   text-decoration: none;
@@ -25,6 +25,10 @@ p {
 
 .navigation {
   width: 50%;   
+}
+
+body {
+    background-color: rgb(232,232,232);
 }
 /*html, body {
     /*background image: radial-gradient(rgb(73, 25, 140) 0.20, rgb(38, 129, 226) 0.60);*/
