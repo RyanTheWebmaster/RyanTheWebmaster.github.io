@@ -62,9 +62,6 @@ p {
   background-color: #0441a3;
   padding: 0px;
   min-width: 700px;
-  top: 0;
-  position: sticky;
-  position: -webkit-sticky;
   
 }
 
@@ -76,6 +73,9 @@ p {
     margin: 0px;
     padding: 0px;
     /*left: 0;*/
+    top: 0;
+    position: sticky;
+    position: -webkit-sticky;
 }
 
 
