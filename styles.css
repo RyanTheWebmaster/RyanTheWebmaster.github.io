@@ -22,7 +22,7 @@ img {
      width: 150px;
      height: 75px;
      padding: 7px;
-     margin-top: -150px;
+    /*margin-top: -150px;*/
 }
 
 p {
