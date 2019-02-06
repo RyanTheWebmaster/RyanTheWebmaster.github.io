@@ -44,6 +44,7 @@ p {
   top: 0;
   position: sticky;
   position: -webkit-sticky;
+  font-size:5vw
 }
 
 .top {
