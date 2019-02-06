@@ -33,18 +33,20 @@ p {
   font-size: 45px;
   color: white;
   font-family: "Times New Roman", Times, serif;
-  background-color: #0441a3;  
+  background-color: #0441a3; 
+  font-size:5vw;
 }
 
 .navigation {
-  width: 100%;  
+  width: 100%;
+  height: 66px;
   background-color: #0441a3;
-  margin: 0px;
+  padding: 0px;
   min-width: 700px;
   top: 0;
   position: sticky;
   position: -webkit-sticky;
-  font-size:5vw;
+  
 }
 
 .top {
