@@ -51,8 +51,8 @@ p {
     margin: 0px;
     min-width: 700px;
     padding: 0px;
-    left: 0px;
-    top: 0px;
+    top: 0;
+    /*left: 0;*/
 }
 
 .toptop {
