@@ -41,6 +41,9 @@ p {
   font-family: "Times New Roman", Times, serif;
   background-color: #0441a3; 
   font-size:calc(2px + 2.2vw);
+     top: 0;
+    position: sticky;
+    position: -webkit-sticky;
 }
 
 /*
@@ -62,7 +65,9 @@ p {
   background-color: #0441a3;
   padding: 0px;
   min-width: 700px;
-  
+   top: 0;
+    position: sticky;
+    position: -webkit-sticky;
 }
 
 #top {
