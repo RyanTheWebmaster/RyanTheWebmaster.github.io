@@ -102,6 +102,7 @@ p {
 
 body {
     background-image: linear-gradient(to bottom, rgb(232,232,232), rgb(128,128,128));
+    margin: 0;
 }
 
 html {
