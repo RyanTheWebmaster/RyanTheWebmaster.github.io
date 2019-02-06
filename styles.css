@@ -7,8 +7,9 @@ h1 {
 }
 
 img {
-     width: 150;
-     height: 75;
+     width: 150px;
+     height: 75px;
+     padding: 7px;
 }
 
 p {
