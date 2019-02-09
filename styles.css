@@ -88,7 +88,7 @@ p {
     position: -webkit-sticky;
 }
 
-#pagetop {
+.pagetop {
     margin: 0;
     padding: 0;
 }
