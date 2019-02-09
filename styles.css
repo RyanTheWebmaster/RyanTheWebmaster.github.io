@@ -88,6 +88,10 @@ p {
     position: -webkit-sticky;
 }
 
+#pagetop {
+    margin: 0;
+    padding: 0;
+}
 
 .toptop {
     position: sticky;
