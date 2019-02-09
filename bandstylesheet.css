@@ -126,7 +126,7 @@ p {
 }
 
 body {
-    background-image: linear-gradient(to bottom, rgb(232,232,232), rgb(128,128,128));
+    background-image: url("pexels-photo-144428.jpeg");
     margin: 0;
     width; 100%;
 }
